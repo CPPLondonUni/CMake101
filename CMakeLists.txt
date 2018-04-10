@@ -1,1 +1,4 @@
-#Replace this comment with an actual implementation.
+cmake_minimum_required(VERSION 3.3)
+project (WidgetProject)
+
+add_subdirectory(src)
